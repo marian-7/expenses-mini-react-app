@@ -1,4 +1,4 @@
-[Live Demo](https://expenses-mini-react-app.vercel.app/)
+## [Live Demo](https://expenses-mini-react-app.vercel.app/) ##
 
 React mini-app for tracking expenses made in education purposes of learning React.js basics and fundamentals.
 
